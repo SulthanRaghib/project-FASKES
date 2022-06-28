@@ -6,6 +6,7 @@ class Ira extends BaseController
 {
     public function index()
     {
-        echo "ira";
+        echo "Ira";
+        echo "Kusuma wardani";
     }
 }
